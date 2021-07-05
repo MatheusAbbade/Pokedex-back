@@ -1,0 +1,12 @@
+{
+    "users": {
+        "data": [
+          {
+            "id": "5da9ea674234635bdff45c02",
+            "name": "Matheus",
+            "usuario": "matheus",
+            "senha": "12345678"
+          }
+        ]
+      }
+}
